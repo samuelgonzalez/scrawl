@@ -12,6 +12,7 @@ Un ejemplo sería, si se obtubiera desde getScrawlList() una lista con 3 element
 
 
 +--------------+
+
 | 12 : asfaasd |
 +--------------+
 | 99 : oinr    |
