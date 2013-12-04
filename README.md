@@ -7,7 +7,6 @@ Recuperación de Nota, Emergentes I - Android.
 Entregar una aplicación en android que muestre los datos que se obtienen desde el método getScrawlList() de la clase Data, en donde cada item estará representado en una fila (de cualquier tipo de widget). La información que se deberá mostrar es el atributo i seguido de dos puntos y el atributo s, por cada uno de los elementos Scrawl de la lista.
 
 Cada vez que consulten getScrawlList() retornará una cantidad de elementos distintos, por lo que no podrán hacer nada estático.
-
 Un ejemplo sería, si se obtubiera desde getScrawlList() una lista con 3 elementos:
 
 
