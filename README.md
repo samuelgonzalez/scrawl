@@ -23,7 +23,7 @@ Deberán generar una rama nueva en el repositorio, por lo que deberán solicitar
 
 Podrán acceder a un máximo de 2 puntos.
 
-Bonus: Si el widget usado es generado por código y no usando un xml (para la interfaz)
+Bonus: Si el widget usado es generado por código y no usando un xml (para la interfaz) optaran a 5 decimas mas.
 
 No se aceptan envíos por correo, facebook y/o explicación en clases. Sólo serán consideradas las ramas existentes en el proyecto. Envíos directos a la rama master no serán considerados y no será considerado para revisión.
 
