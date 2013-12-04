@@ -10,8 +10,6 @@ Cada vez que consulten getScrawlList() retornará una cantidad de elementos dist
 
 Un ejemplo sería, si se obtubiera desde getScrawlList() una lista con 3 elementos:
 
-
-+------------+
 12 : asfaasd 
 99 : oinr
 66 : wsfyuc  
