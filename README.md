@@ -11,14 +11,13 @@ Cada vez que consulten getScrawlList() retornará una cantidad de elementos dist
 Un ejemplo sería, si se obtubiera desde getScrawlList() una lista con 3 elementos:
 
 
-+--------------+
-
-| 12 : asfaasd |
-+--------------+
-| 99 : oinr    |
-+--------------+
-| 66 : wsfyuc  |
-+--------------+
+ +--------------+ 
+ | 12 : asfaasd | 
+ +--------------+ 
+ | 99 : oinr    | 
+ +--------------+ 
+ | 66 : wsfyuc  | 
+ +--------------+ 
 
 
 El trabajo tiene una fecha límite de entrega el día viernes 6 a las 11.59 AM.
