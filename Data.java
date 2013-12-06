@@ -1,7 +1,9 @@
+package com.example.scrawl;
+
 import java.util.ArrayList;
 import java.util.Random;
 
-public class Data {
+public class Data extends MainActivity {
 	
 	public ArrayList<Scrawl> getScrawlList(){
 		ArrayList<Scrawl> sc = new ArrayList<Scrawl>();
